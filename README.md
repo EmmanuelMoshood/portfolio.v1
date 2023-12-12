@@ -36,7 +36,7 @@ html5up.net - aj@lkn.io | @ajlkn
 
 Reach out to me on one of the following places!
 
-- Website: https://thanesh.io/
-- Email: thanesh.pannirselvam@gmail.com
-- LinkedIn: linkedin.com/in/thanesh-pannirselvam
-- Blog: https://blog.thanesh.io/
+- Website: https://portfolio.emmanuelmoshood.com
+- Email: emmanuelmoshood571@gmail.com
+- LinkedIn: https://www.linkedin.com/in/emmanuel-moshood-943094111/
+- Blog: https://medium.com/@moshoodemmanuel27
